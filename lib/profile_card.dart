@@ -33,7 +33,7 @@ class ProfileCard extends StatelessWidget {
             // รูปโปรไฟล์
             CircleAvatar(
               radius: 40,
-              backgroundImage: NetworkImage(imageUrl),
+              backgroundImage:AssetImage(imageUrl),
             ),
             const SizedBox(height: 12),
             // ชื่อและตำแหน่ง

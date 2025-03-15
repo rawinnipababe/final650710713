@@ -35,12 +35,12 @@ class ProfileScreen extends StatelessWidget {
       ),
       body: const Center(
         child: ProfileCard(
-          name: 'Patipan Watjanaporn',
-          position: 'Programer',
-          email: 'patipan.watjanaporn@email.com',
-          phoneNumber: '0821233214',
+          name: 'Rawinnipa Damrongburanakulchai',
+          position: 'Cyber Crime Analyst',
+          email: 'rawin@email.com',
+          phoneNumber: '0999999999',
           imageUrl:
-              'https://i.pinimg.com/736x/50/65/00/5065004e80ce5ea95914fbdc4b1065cc.jpg',
+              'assets/images/rabbit.jpg',
         ),
       ),
     );
